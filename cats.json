@@ -1,6 +1,9 @@
 {
 	"cat": [
 		{
+			"name": "Wolfgang Amadeus Miau\n"
+		},
+		{
 			"photo": "img/adamcatlace.png",
 			"name": "Adam Catlace",
 			"age": 3
@@ -23,10 +26,6 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
-		},
-		{
-			"name": "Mistoffeles",
-			"age": "12"
 		}
 	]
 }
